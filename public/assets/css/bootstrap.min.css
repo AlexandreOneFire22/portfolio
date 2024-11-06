@@ -68,6 +68,9 @@ footer {
     position: relative;
 }
 
-body{
-    min-height: 100%;
+.bg-image{
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
+
