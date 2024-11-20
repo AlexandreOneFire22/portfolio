@@ -103,3 +103,7 @@ body {
 .police1 {
     font-family: serif;
 }
+
+p {
+    line-height: 40px;
+}
